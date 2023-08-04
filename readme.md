@@ -17,11 +17,10 @@ _This portfolio features a section about me, my background in education, skills,
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Clone the portfolio repository to your desktop by opening your terminal, navigating to the desktop (changing directory if needed), and entering "git clone https://github.com/pletourneau/portfolio.git"_
+* _Navigate to the top level of the directory_
+* _open index.html in your browser_
+
 
 ## Known Bugs
 
