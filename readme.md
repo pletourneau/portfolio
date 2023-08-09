@@ -15,6 +15,12 @@
 
 _This portfolio features a section about me, my background in education, skills, and interests. Coded in HTML/CSS with liberal use of Bootstrap for layout and effects_
 
+## GitHub Pages Link
+
+_copy and paste the link below into a browser connected to the internet to view page without cloning from GitHub_
+
+_This portfolio features a section about me, my background in education, skills, and interests. Coded in HTML/CSS with liberal use of Bootstrap for layout and effects_
+
 ## Setup/Installation Requirements
 
 * _Clone the portfolio repository to your desktop by opening your terminal, navigating to the desktop (changing directory if needed), and entering "git clone https://github.com/pletourneau/portfolio.git"_
@@ -24,7 +30,7 @@ _This portfolio features a section about me, my background in education, skills,
 
 ## Known Bugs
 
-* _no known bugs/issues_
+* _spacing issue on small screens found_
 
 
 ## License
