@@ -17,9 +17,9 @@ _This portfolio features a section about me, my background in education, skills,
 
 ## GitHub Pages Link
 
-_copy and paste the link below into a browser connected to the internet to view page without cloning from GitHub_
+_This link will access the site via GitHub Pages. No download is needed to view here, just copy and paste into a browser_
 
-_This portfolio features a section about me, my background in education, skills, and interests. Coded in HTML/CSS with liberal use of Bootstrap for layout and effects_
+_https://pletourneau.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
@@ -30,7 +30,7 @@ _This portfolio features a section about me, my background in education, skills,
 
 ## Known Bugs
 
-* _spacing issue on small screens found_
+* _issue with display on mobile device_
 
 
 ## License
