@@ -19,7 +19,7 @@ _This portfolio features a section about me, my background in education, skills,
 
 _This link will access the site via GitHub Pages. No download is needed to view here, just copy and paste into a browser_
 
-_https://pletourneau.github.io/portfolio/_
+[GH Pages Link](https://pletourneau.github.io/portfolio/)
 
 ## Setup/Installation Requirements
 
